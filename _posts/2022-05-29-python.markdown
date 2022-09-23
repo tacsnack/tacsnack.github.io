@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-06-01
+img: python.png
+alt: image-alt
+project-date: June 2022
+client: N/A
+category: Software Skills
+description: Python is the language I dream in. I have glued together many languages and software APIs using Python. My experience ranges from web scraping to test frameworks to full stack websites using Django or Flask. Reach out if you have questions, I am always happy to chat Python.
+---

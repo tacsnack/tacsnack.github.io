@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2022-06-01
+img: cake.png
+alt: image-alt
+project-date: June 2022
+client: Law Office
+category: Automation
+description: Wrote Python script with easily configurable parameters to scrape journal text. The script had a transparent voting alogorithm to rank the journals based on word density. This gave the client a prioritized reading list based on their parameters.
+---

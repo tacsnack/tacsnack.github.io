@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2022-06-01
+img: game.png
+alt: image-alt
+project-date: June 2022
+client: Everyone
+category: Fun
+description: Built a fast paced memory game using React, Typescript, and Firebase. The basis of the game is to reveal all the matching cards pair by pair before the time runs up. Highscores are stored for users who login.
+---
