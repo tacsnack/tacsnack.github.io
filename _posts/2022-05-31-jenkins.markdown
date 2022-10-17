@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 1
-date: 2022-06-01
+modal-id: 3
+date: 2022-05-31
 img: jenkins.png
 alt: image-alt
 project-date: June 2022
 client: N/A
 category: Automation
-description: Task automation can easily 10x a software team's performance. Whether you need deterministic builds, or a stable quality signal, I have seem all sides of the equation. I have extensive experience (8 years?) working with Jenkins, Github actions and Gitlab runners. Hope I can help you with any problems you need solved.
+description: Task automation can easily 10x a software team's performance. Whether you need deterministic builds, or a stable quality signal, I have seem all sides of the equation. I have 8 years experience working with Jenkins, Github actions and Gitlab runners. Hope I can help you with any problems you need solved.
 ---

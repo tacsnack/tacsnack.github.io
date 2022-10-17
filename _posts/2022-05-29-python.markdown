@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2022-06-01
+date: 2022-05-29
 img: python.png
 alt: image-alt
 project-date: June 2022
